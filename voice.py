@@ -4,9 +4,7 @@
     using our AI Assistant. We can change the voices from male to female and vice versa'''
 
 
-'''team members--- 102017148 Raunak Kumar
-                102017154 Jasmine Batra
-                group CS7'''
+
 
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
